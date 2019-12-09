@@ -1,2 +1,2 @@
 # HelloGithub
-Rede social para poetas divulgarem seus trabalhos.
+Sistema para facilitar a comunicação entre alunos, pais, professores e demais docentes do ambiente escolar.
